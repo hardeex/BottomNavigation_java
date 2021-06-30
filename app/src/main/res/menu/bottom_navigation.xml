@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_home"
+        android:id="@+id/home"
+        android:title="HOME" />
+
+    <item
+        android:icon="@drawable/ic_e_portal"
+        android:id="@+id/e_portal"
+        android:title="E-PORTAL" />
+
+    <item
+        android:icon="@drawable/ic_e_result"
+        android:id="@+id/e_result"
+        android:title="E-RESULT" />
+</menu>
